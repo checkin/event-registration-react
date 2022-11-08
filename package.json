@@ -1,6 +1,6 @@
 {
   "name": "@checkin.no/event-registration-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Super simple react component wrapper for Checkin event registration form",
   "main": "build/main.js",
   "types": "build/main.d.ts",
@@ -29,9 +29,5 @@
   },
   "dependencies": {
     "@checkin.no/event_registration": "^1.0.6"
-  },
-  "peerDependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
   }
 }
