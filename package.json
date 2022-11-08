@@ -1,6 +1,6 @@
 {
   "name": "@checkin.no/event-registration-react",
-  "version": "1.0.1",
+  "version": "1.0.",
   "description": "Super simple react component wrapper for Checkin event registration form",
   "main": "build/main.js",
   "types": "build/main.d.ts",
@@ -17,17 +17,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/packager-ts": "^2.7.0",
+    "@parcel/transformer-js": "2.7.0",
+    "@parcel/transformer-typescript-types": "^2.7.0",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.8",
     "parcel": "^2.7.0",
     "process": "^0.11.10",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "@parcel/packager-ts": "^2.7.0",
-    "@parcel/transformer-js": "2.7.0",
-    "@parcel/transformer-typescript-types": "^2.7.0"
+    "react-dom": "^18.2.0"
   },
   "dependencies": {
-    "@checkin.no/event_registration": "^1.0.6"
+    "@checkin.no/event-registration": "^1.0.0"
   }
 }

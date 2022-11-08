@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { getEventRegistrationForm } from '@checkin.no/event_registration';
+import { getEventRegistrationForm } from '@checkin.no/event-registration';
 
 const EventRegistrationForm = ({eventId}) => {
     useEffect(() => {
