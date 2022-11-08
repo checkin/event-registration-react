@@ -5,6 +5,9 @@
   "main": "build/main.js",
   "types": "build/main.d.ts",
   "source": "src/index.ts",
+  "repository": {
+    "url": "https://github.com/checkin/event-registration-react"
+  },
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
