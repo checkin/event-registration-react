@@ -1,5 +1,5 @@
 {
-  "name": "@checkin.no/event_registration_react",
+  "name": "@checkin.no/event-registration-react",
   "version": "1.0.0",
   "description": "Super simple react component wrapper for Checkin event registration form",
   "main": "build/main.js",
