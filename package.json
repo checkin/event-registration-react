@@ -1,7 +1,7 @@
 {
   "name": "@checkin.no/event-registration-react",
-  "version": "1.0.2",
-  "description": "Super simple react component wrapper for Checkin event registration form",
+  "version": "1.0.3",
+  "description": "Simple react component for Checkin event registration form",
   "main": "build/main.js",
   "types": "build/main.d.ts",
   "source": "src/index.ts",
