@@ -1,3 +1,3 @@
-import EventRegistrationForm from './EventRegistrationForm';
+import EventRegistrationForm from "./EventRegistrationForm";
 
 export default EventRegistrationForm;
